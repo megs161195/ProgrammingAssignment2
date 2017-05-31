@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 
 ## This function sets the value of matrix, gets the value of matrix, 
 ## sets the value of inverse, gets the value of inverse
